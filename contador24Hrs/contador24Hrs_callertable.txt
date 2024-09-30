@@ -1,0 +1,10 @@
+main
+	__CC2DW
+	setup_inicial
+	escreve_display
+		decodifica
+	crescente
+	ajuste
+		escreve_display
+			decodifica
+interrupt

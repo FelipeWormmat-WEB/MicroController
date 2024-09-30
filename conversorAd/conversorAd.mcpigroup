@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\characterAsc2\characterAsc2.mcppi
+Project1=conversorAd.mcppi
+[ActiveProject]
+Index=1

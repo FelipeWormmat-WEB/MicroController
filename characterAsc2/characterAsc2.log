@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo20 -N"C:\Users\Felipe\Desktop\Microcontroladores\characterAsc2\characterAsc2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Felipe\Desktop\Microcontroladores\characterAsc2\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "characterAsc2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	characterAsc2.c
+diagnostics: 34	123	Compiled Successfully	characterAsc2.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 27 (2%)  Free RAM (bytes): 1488 (98%)	Used RAM (bytes): 27 (2%)  Free RAM (bytes): 1488 (98%)
+hint: 0	1144	Used ROM (bytes): 838 (3%)  Free ROM (bytes): 31930 (97%)	Used ROM (bytes): 838 (3%)  Free ROM (bytes): 31930 (97%)
+diagnostics: 0	125	Project Linked Successfully	characterAsc2.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'characterAsc2.mcppi' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 17 Sep 2024, 21:37:00	characterAsc2.mcppi

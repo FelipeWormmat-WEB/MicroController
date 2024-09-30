@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\DisplayLed´s_Contador_0_a_9.mcppi
+Project1=..\leituraChaves.mcppi
+Project2=segmentosDisplay.mcppi
+[ActiveProject]
+Index=2

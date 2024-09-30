@@ -1,0 +1,14 @@
+main
+	__CC2DW
+	setupInicial
+	crescente
+		escreveDisplay
+			decodifica
+	crescenteRapido
+		escreveDisplay
+			decodifica
+	escreveDisplay
+		decodifica
+	reset
+		escreveDisplay
+			decodifica
