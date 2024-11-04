@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\mediaPonderada\mediaPonderada.mcppi
+Project1=Transmissao.mcppi
+[ActiveProject]
+Index=1

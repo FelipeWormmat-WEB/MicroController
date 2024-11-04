@@ -1,0 +1,19 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo20 -N"C:\Users\Felipe\Desktop\Microcontroladores\trabalhodoToni\trabalhodoToni.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Felipe\Desktop\Microcontroladores\trabalhodoToni\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "trabalhodoToni.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_D.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	trabalhodoToni.c
+warning: 120	1505	Suspicious pointer conversion	trabalhodoToni.c
+warning: 122	1505	Suspicious pointer conversion	trabalhodoToni.c
+warning: 129	1505	Suspicious pointer conversion	trabalhodoToni.c
+warning: 130	1505	Suspicious pointer conversion	trabalhodoToni.c
+warning: 142	1505	Suspicious pointer conversion	trabalhodoToni.c
+warning: 144	1505	Suspicious pointer conversion	trabalhodoToni.c
+warning: 152	1505	Suspicious pointer conversion	trabalhodoToni.c
+warning: 154	1505	Suspicious pointer conversion	trabalhodoToni.c
+diagnostics: 160	123	Compiled Successfully	trabalhodoToni.c
+diagnostics: 0	127	All files Compiled in 266 ms	 
+hint: 0	1144	Used RAM (bytes): 93 (6%)  Free RAM (bytes): 1422 (94%)	Used RAM (bytes): 93 (6%)  Free RAM (bytes): 1422 (94%)
+hint: 0	1144	Used ROM (bytes): 1928 (6%)  Free ROM (bytes): 30840 (94%)	Used ROM (bytes): 1928 (6%)  Free ROM (bytes): 30840 (94%)
+diagnostics: 0	125	Project Linked Successfully	trabalhodoToni.mcppi
+diagnostics: 0	128	Linked in 187 ms	 
+diagnostics: 0	129	Project 'trabalhodoToni.mcppi' completed: 594 ms	 
+diagnostics: 0	103	Finished successfully: 08 Oct 2024, 19:40:51	trabalhodoToni.mcppi

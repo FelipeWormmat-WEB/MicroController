@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\contador24Hrs\contador24Hrs.mcppi
+Project1=..\trabalhodoToni\trabalhodoToni.mcppi
+Project2=conversorAdded.mcppi
+[ActiveProject]
+Index=2
