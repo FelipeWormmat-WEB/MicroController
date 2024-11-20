@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo20 -N"D:\Micro_2024_2\Contador_flash\Contador_flash.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\Micro_2024_2\Contador_flash\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "Contador_flash.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_FLASH_w32_e64.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	Contador_flash.c
+warning: 32	1505	Suspicious pointer conversion	Contador_flash.c
+warning: 38	1505	Suspicious pointer conversion	Contador_flash.c
+warning: 45	1505	Suspicious pointer conversion	Contador_flash.c
+diagnostics: 66	123	Compiled Successfully	Contador_flash.c
+diagnostics: 0	127	All files Compiled in 156 ms	 
+hint: 0	1144	Used RAM (bytes): 98 (6%)  Free RAM (bytes): 1417 (94%)	Used RAM (bytes): 98 (6%)  Free RAM (bytes): 1417 (94%)
+hint: 0	1144	Used ROM (bytes): 1466 (4%)  Free ROM (bytes): 31302 (96%)	Used ROM (bytes): 1466 (4%)  Free ROM (bytes): 31302 (96%)
+diagnostics: 0	125	Project Linked Successfully	Contador_flash.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'Contador_flash.mcppi' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 12 nov 2024, 21:41:28	Contador_flash.mcppi

@@ -20,17 +20,17 @@ int valor_medido = 0;
 int valor = 0, resposta = 0;
 char txt[7];
 void main() {
-     setup_inicial();// Configura o micro
-     lcd_init();
-     lcd_cmd(_LCD_CURSOR_OFF);//apaga
-     lcd_Cmd(_LCD_CLEAR);//limpa
-     while(1){
-         valor_medido = ADC_Read(0);// Medição RA0
-         resposta = (valor * 0.4901) + 0.3937;
-         inttostr(valor_medido,txt);
-         lcd_out(1,1, "teste = ");
-         lcd_out_CP(txt);
-     }
+    setup_inicial();// Configura o micro
+    lcd_init();
+    lcd_cmd(_LCD_CURSOR_OFF);//apaga
+    lcd_Cmd(_LCD_CLEAR);//limpa
+    while(1){
+        valor_medido = ADC_Read(0);// Mediï¿½ï¿½o RA0
+        resposta = (valor * 0.4901) + 0.3937;
+        inttostr(valor_medido,txt);
+        lcd_out(1,1, "teste = ");
+        lcd_out_CP(txt);
+    }
 }
 
 void setup_inicial(){
