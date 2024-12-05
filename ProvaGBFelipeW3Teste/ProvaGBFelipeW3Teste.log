@@ -1,0 +1,8 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo20 -N"C:\Users\Felipe\Desktop\Microcontroladores\ProvaGBFelipeW3Teste\ProvaGBFelipeW3Teste.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Felipe\Desktop\Microcontroladores\ProvaGBFelipeW3Teste\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "ProvaGBFelipeW3Teste.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_D.mcl" "__Lib_PWM_c21.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	ProvaGBFelipeW3Teste.c
+error: 71	324	Undeclared identifier 'txt' in expression	ProvaGBFelipeW3Teste.c
+warning: 71	1508	Implicit conversion of int to ptr	ProvaGBFelipeW3Teste.c
+error: 78	324	Undeclared identifier 'txt' in expression	ProvaGBFelipeW3Teste.c
+warning: 78	1508	Implicit conversion of int to ptr	ProvaGBFelipeW3Teste.c
+error: 0	102	Finished (with errors): 03 Dec 2024, 21:12:43	ProvaGBFelipeW3Teste.mcppi

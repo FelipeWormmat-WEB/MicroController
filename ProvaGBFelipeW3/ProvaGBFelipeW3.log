@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo20 -N"C:\Users\Felipe\Desktop\Microcontroladores\ProvaGBFelipeW3\ProvaGBFelipeW3.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Felipe\Desktop\Microcontroladores\ProvaGBFelipeW3\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "ProvaGBFelipeW3.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_D.mcl" "__Lib_FLASH_w32_e64.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	ProvaGBFelipeW3.c
+diagnostics: 126	123	Compiled Successfully	ProvaGBFelipeW3.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 54 (4%)  Free RAM (bytes): 1461 (96%)	Used RAM (bytes): 54 (4%)  Free RAM (bytes): 1461 (96%)
+hint: 0	1144	Used ROM (bytes): 1297 (4%)  Free ROM (bytes): 31471 (96%)	Used ROM (bytes): 1297 (4%)  Free ROM (bytes): 31471 (96%)
+diagnostics: 0	125	Project Linked Successfully	ProvaGBFelipeW3.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'ProvaGBFelipeW3.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 03 Dec 2024, 20:40:17	ProvaGBFelipeW3.mcppi
